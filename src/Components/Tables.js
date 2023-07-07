@@ -12,7 +12,7 @@ const rows = [];
         <td>{number} * {i} =  {i * number }</td>
        
         </tr>
-    );
+    ); 
     }
 
 for(let i = 1; i <= 10; i++) {
