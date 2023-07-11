@@ -2,10 +2,10 @@ table th,
 table td {
   border: 1px solid black;
   text-align: center;
-  padding: 2px 40px;
+  padding: 3px 40px;
   font-size: larger;
-  color: blue;
-  background-color: yellow;
+  color: red;
+  background-color: lightblue;
 }
 
 table th {
@@ -18,7 +18,6 @@ table {
 }
 
 .table_wrap {
-  /* height: 100vh; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,8 +43,8 @@ table {
   height: 2rem;
   margin-left: 2rem;
   border: 2px solid black;
-  color: yellow;
-  background-color: green;
+  color: black;
+  background-color: lightgreen;
 }
 
 .edit_btn {
