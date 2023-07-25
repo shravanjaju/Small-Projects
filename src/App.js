@@ -1,10 +1,10 @@
 import './App.css';
-import Table from './Components/Table';
+import Emojis from './Components/Emoji'; 
 
 function App() {
   return (
     <div className="App">
-      <Table />
+      <Emojis />
     </div>
   );
 }
